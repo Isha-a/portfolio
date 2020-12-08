@@ -1,2 +1,2 @@
-# itsmariodias.github.io
+# isha-a.github.io
 Bootstrap based Resume
